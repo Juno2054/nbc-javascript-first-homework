@@ -1,0 +1,10 @@
+.main-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.sub-box{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}

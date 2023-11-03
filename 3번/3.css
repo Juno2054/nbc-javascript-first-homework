@@ -1,0 +1,12 @@
+.main-box{
+    display: flex;
+        max-width: 500px;
+    margin: 0 auto;
+}
+.sub-box{
+
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}

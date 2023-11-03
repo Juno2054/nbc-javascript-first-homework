@@ -1,0 +1,1 @@
+document.querySelector(".img img").alt = '개발자';
